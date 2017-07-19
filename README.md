@@ -1,1 +1,1 @@
-# 个人写的Go和Python常用脚本
+# Go and Python Shells
